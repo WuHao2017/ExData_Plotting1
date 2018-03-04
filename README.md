@@ -5,7 +5,7 @@ The deliveries of this course project are 4 scripts names and 4 png files:
   1. plot1.R, plot2.R, plot3.R and plot4.R
   2. plot1.png, plot2.png, plot3.png, plot4.png
 
-All those delievery were put into the root folder of this repository.
+All those delieveries were put into the root folder of this repository.
 
 The background information for this course project please see the introduction below, which was directly copy from the orginal course project readme file.
 
